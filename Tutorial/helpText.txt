@@ -1,0 +1,43 @@
+1. Adjust the Countdown time in the Numeric Box.
+2. Press the Get Active Window Button, this starts the countdown.
+3. Switch to the window to be targetted, and wait there till the Countdown is over.
+4. When the countdown ends, the Windows "Asterisk Sound will be heard"
+       and the window will have been identified.
+
+1. Once the window is Identified, the Target Window title
+       and the Handle would be displayed in those boxes.
+2. The text in the Target-Window-Title Box can be changed and it will also
+       show up on the title bar.
+
+1. Press the [ ... ] button and it will open up a selection form
+2. Press the key to be spammed, and click [ OK ].
+3. The small round button (gray/green) is to be activated(green) after selecting the Key.
+
+1. Adjust the spam interval here, i.e, if it is set to 2 seconds,
+       it will spam the selected Key once every 2 seconds.
+2. Zero Interval will give an Error upon spam, unless a minimum default interval
+       has been specified in the settings.
+3. The Numeric boxes are Hours, Minutes, Seconds, and Miliseconds respectively.
+
+1. Start Button - Starts or Restarts the timer (Returns an error on
+       Zero interval unless a default value has been specified).
+2. Stop Button - Stops the timer(Disabled when the timer is not running).
+3. Enable Spam Button - If disabled(gray), the key will not be spammed even
+       if the timer is running.
+
+1. Minimize to Tray - Minimizes MultiKey to the System Tray (Bottom-Right corner).
+2. Compact Mode - Reduces window size by hiding the Timers.
+3. New Window - Starts a new instance of this program.
+4. Instruction & About(About the Program) - Self Explanatory.
+
+On the Image- Tray Icon and the Right-Click Menu with functions available there.
+
+1. The Splash screen checks if the critical files are present when starting MultiKey.
+2. Startup and Exit are recorded in MultiKey.Log in the program folder.
+3. The log files can be cleaned from the settings page.
+4. The background colour of the MultiKey Window can be changed from the settings.
+
+
+
+
+ 
